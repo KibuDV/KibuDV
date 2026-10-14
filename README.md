@@ -23,6 +23,8 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/0*l97vC1QkxR8Sivxt.png" height="40" alt="java logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/python/3776AB" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/godotengine/478CBF" height="40" alt="godot logo"  />
